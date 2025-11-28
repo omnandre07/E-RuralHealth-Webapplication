@@ -1,5 +1,30 @@
-# E-RuralHealth-Webapplication
-E-RuralHealth is a web application designed to improve rural healthcare access, enabling patients to manage health records, book consultations, and connect with doctors online. It streamlines medical services, promotes efficient record-keeping, and enhances healthcare delivery in rural communities.
+# 📗 E-RuralHealth WebApplication
+
+A web-based rural health management system built using **JSP, Servlets, MySQL, HTML, CSS**.  
+E-RuralHealth aims to provide a centralized platform for managing patients, doctors, and health records — especially focused on rural or underserved healthcare settings.
+
+---
+
+## 🔹 Features & Functionalities
+
+- Admin panel with ability to manage doctors and patients  
+- CRUD operations: Add / Edit / Delete doctor and patient information  
+- Store and manage health records for patients  
+- Patient profiles (with personal and medical information)  
+- Clean, responsive user interface using JSP and CSS  
+- Separation of concerns through MVC architecture (Model, View, Controller)  
+- Easy to deploy on a servlet container (e.g. Apache Tomcat)  
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend / View:** JSP, HTML, CSS, (optional JavaScript)  
+- **Backend / Controller & Model:** Java Servlets, JDBC, MySQL  
+- **Database:** MySQL (or any compatible relational DB)  
+- **Server / Deployment:** Apache Tomcat (or compatible servlet container)  
+
+---
 
 
 ## 📸 Project Preview
@@ -23,3 +48,18 @@ E-RuralHealth is a web application designed to improve rural healthcare access, 
 ![Preview 17](ERpreview/Screenshot%202025-11-27%20220453.png)
 ![Preview 18](ERpreview/Screenshot%202025-11-27%20220521.png)
 ![Preview 19](ERpreview/Screenshot%202025-11-27%20220923.png)
+
+---
+## 👨‍💻 Author
+
+Om VInod Nandre
+
+GitHub: https://github.com/omnandre07
+
+LinkedIn: https://www.linkedin.com/in/om-nandre-0b8569397/
+
+---
+## ⭐ Show Support
+
+If you found this project helpful or inspiring, consider giving it a ⭐ star on GitHub!
+
